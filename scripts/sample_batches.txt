@@ -1,0 +1,999 @@
+Short ID	BATCH	Barcode
+AA1	VERD9	1
+AA2	VERD2	1
+AA3	VERD2	2
+AA4	VERD8	1
+AA5	VERD13	9
+AA6	VERD2	3
+AA7	VERD1	17
+AA8	VERD2	4
+AA9	VERD2	5
+AB1	VERD2	6
+AB2	VERD2	7
+AB3	VERD2	8
+AB4	VERD2	9
+AB5	VERD1	13
+AB6	VERD2	10
+AB7	VERD2	11
+AB8	VERD9	16
+AB9	VERD4	2
+AC1	VERD2	12
+AC2	VERD2	13
+AC3	VERD2	14
+AC4	VERD4	3
+AC5	VERD2	15
+AC6	VERD4	4
+AC7	VERD2	17
+AC8	VERD2	18
+AC9	VERD8	2
+AD1		
+AD2	VERD2	19
+AD3	VERD2	20
+AD4	VERD2	21
+AD5	VERD2	22
+AD6	VERD8	2
+AD7	VERD8	3
+AD8	VERD2	23
+AD9		
+AE1	VERD9	17
+AE2	VERD9	2
+AE3	VERD9	3
+AE4	VERD4	5
+AE5	VERD9	4
+AE6	VERD4	6
+AE7	VERD9	18
+AE8	VERD4	7
+AE9	VERD4	8
+AF1	VERD4	9
+AF2	VERD4	10
+AF3	VERD9	19
+AF4	VERD4	11
+AF5	VERD9	20
+AF6	VERD4	12
+AF7	VERD13	1
+AF8	VERD13	13
+AF9	VERD4	13
+AG1	VERD1	16
+AG2	VERD9	21
+AG3	VERD8	5
+AG4	VERD4	14
+AG5	VERD9	22
+AG6	VERD1	14
+AG7		
+AG8	VERD8	6
+AG9	VERD9	23
+AH1	VERD9	24
+AH2	VERD4	15
+AH3	VERD10	1
+AH4	VERD4	16
+AH5	VERD4	17
+AH6	VERD8	7
+AH7	VERD4	18
+AH8	VERD10	3
+AH9	VERD10	4
+AI1	VERD10	5
+AI2	VERD10	6
+AI3	VERD4	19
+AI4	VERD9	5
+AI5	VERD4	20
+AI6	VERD8	8
+AI7	VERD4	21
+AI8	VERD1	15
+AI9	VERD4	22
+AJ1	VERD10	7
+AJ2	VERD3_2	1
+AJ3	VERD10	8
+AJ4	VERD9	6
+AJ5	VERD10	9
+AJ6	VERD10	10
+AJ7	VERD3_2	2
+AJ8	VERD8	9
+AJ9	VERD3_2	3
+AK1	VERD8	10
+AK2	VERD3_2	4
+AK3	VERD3_2	5
+AK4	VERD3_2	6
+AK5	VERD4	23
+AK6	VERD10	11
+AK7	VERD3_2	7
+AK8	VERD3_2	8
+AK9	VERD10	12
+AL1	VERD3_2	9
+AL2	VERD3_2	10
+AL3	VERD10	13
+AL4	VERD9	7
+AL5	VERD3_2	11
+AL6	VERD3_2	12
+AL7	VERD3_2	13
+AL8	VERD3_2	14
+AL9	VERD3_2	15
+AM1	VERD8	11
+AM2	VERD10	14
+AM3	VERD3_2	16
+AM4	VERD9	8
+AM5	VERD3_2	17
+AM6	VERD8	12
+AM7	VERD10	15
+AM8	VERD9	9
+AM9	VERD10	16
+AN1	VERD13	9
+AN2	VERD10	18
+AN3	VERD10	19
+AN4	VERD9	10
+AN5	VERD10	20
+AN6	VERD10	21
+AN7	VERD10	22
+AN8	VERD10	23
+AN9	VERD9	11
+AO1	VERD10	24
+AO2	VERD11	1
+AO3	VERD5	1
+AO4	VERD11	2
+AO5	VERD11	3
+AO6	VERD5	2
+AO7	VERD5	3
+AO8	VERD11	4
+AO9	VERD5	4
+AP1	VERD5	5
+AP2	VERD5	6
+AP3	VERD5	7
+AP4	VERD9	12
+AP5	VERD11	5
+AP6	VERD5	8
+AP7	VERD11	6
+AP8	VERD8	13
+AP9	VERD11	7
+AQ1	VERD5	9
+AQ2	VERD5	10
+AQ3	VERD8	14
+AQ4	VERD5	11
+AQ5	VERD5	12
+AQ6	VERD5	13
+AQ7	VERD5	14
+AQ8	VERD13	3
+AQ9	VERD5	15
+AR1	VERD5	16
+AR2	VERD8	15
+AR3	VERD5	17
+AR4	VERD5	18
+AR5	VERD5	19
+AR6	VERD5	20
+AR7	VERD11	8
+AR8	VERD9	13
+AR9	VERD5	21
+AS1	VERD5	22
+AS2	VERD11	9
+AS3	VERD11	10
+AS4	VERD5	23
+AS5	VERD8	16
+AS6	VERD5	24
+AS7	VERD6	1
+AS8	VERD6	2
+AS9	VERD6	3
+AT1	VERD11	11
+AT2	VERD11	12
+AT3	VERD6	4
+AT4	VERD13	17
+AT5	VERD11	13
+AT6	VERD6	5
+AT7	VERD6	6
+AT8	VERD6	7
+AT9	VERD6	8
+AU1	VERD6	9
+AU2	VERD6	10
+AU3	VERD13	4
+AU4	VERD11	14
+AU5	VERD11	15
+AU6	VERD13	5
+AU7	VERD6	11
+AU8	VERD6	12
+AU9	VERD6	13
+AV1	VERD11	16
+AV2	VERD11	17
+AV3	VERD11	18
+AV4	VERD6	14
+AV5	VERD11	19
+AV6	VERD6	15
+AV7	VERD6	16
+AV8	VERD6	17
+AV9	VERD6	18
+AW1	VERD6	19
+AW2	VERD6	20
+AW3	VERD11	20
+AW4	VERD11	21
+AW5	VERD6	21
+AW6	VERD11	22
+AW7	VERD13	18
+AW8	VERD6	22
+AW9	VERD11	23
+AX1	VERD6	23
+AX2	VERD11	24
+AX3	VERD13	6
+AX4	VERD12	1
+AX5	VERD12	2
+AX6	VERD6	24
+AX7	VERD12	3
+AX8	VERD12	4
+AX9	VERD7	1
+AY1	VERD7	2
+AY2	VERD12	5
+AY3	VERD7	3
+AY4	VERD12	6
+AY5	VERD12	7
+AY6	VERD13	19
+AY7	VERD7	4
+AY8	VERD7	5
+AY9	VERD7	6
+AZ1	VERD7	7
+AZ2	VERD12	8
+AZ3	VERD7	8
+AZ4	VERD12	9
+AZ5	VERD12	10
+AZ6	VERD13	7
+AZ7	VERD12	11
+AZ8	VERD7	9
+AZ9	VERD7	10
+BA1	VERD13	20
+BA2	VERD12	12
+BA3	VERD12	13
+BA4	VERD12	14
+BA5	VERD7	11
+BA6	VERD7	12
+BA7	VERD7	13
+BA8	VERD12	15
+BA9	VERD7	14
+BB1	VERD7	15
+BB2	VERD7	16
+BB3	VERD13	21
+BB4	VERD12	16
+BB5	VERD12	17
+BB6	VERD12	18
+BB7	VERD7	17
+BB8	VERD12	19
+BB9	VERD13	22
+BC1	VERD7	18
+BC2	VERD12	20
+BC3	VERD7	19
+BC4	VERD7	20
+BC5	VERD7	21
+BC6	VERD13	23
+BC7	VERD7	22
+BC8	VERD10	2
+BC9	VERD13	10
+BD1	VERD13	11
+BD2	VERD13	12
+BD3	VERD13	13
+BD4	VERD13	14
+BD5	VERD7	23
+BD6	VERD13	15
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
